@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hola, soy Pol Moyano (Pamtors)
 
-<!--
-**Pamtors/Pamtors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador web en formación (Grado Superior en **Desarrollo de Aplicaciones Web**) y técnico **IT Helpdesk Nivel 2**. Me gusta construir aplicaciones web y entender cómo funciona todo lo que hay por debajo, desde la base de datos hasta el navegador.
 
-Here are some ideas to get you started:
+📍 Barcelona · 🏠 Trabajo en remoto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack
+
+**Frontend:** HTML · CSS · JavaScript
+
+**Backend:** PHP · Python
+
+**Bases de datos:** SQL
+
+**Herramientas:** Git · GitHub
+
+## 🌱 Ahora mismo
+
+- Cursando DAW y trabajando como IT Helpdesk Nivel 2
+- Profundizando en desarrollo web full-stack
+- Preparando mis primeros proyectos propios fuera del curso
