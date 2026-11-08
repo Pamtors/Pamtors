@@ -8,11 +8,19 @@ Desarrollador web en formación (Grado Superior en **Desarrollo de Aplicaciones 
 
 **Frontend:** HTML · CSS · JavaScript
 
-**Backend:** PHP · Python
+**Backend:** PHP · Python (FastAPI, SQLAlchemy)
 
 **Bases de datos:** SQL
 
 **Herramientas:** Git · GitHub
+
+## 📂 Proyectos destacados
+
+### [obrador-gestion](https://github.com/Pamtors/obrador-gestion)
+
+Sistema de gestión para un obrador de pastelería: pedidos, producción, stock por tienda, reparto y facturación con la API de Holded. Proyecto real hecho en equipo, publicado con datos ficticios.
+
+`Python` · `FastAPI` · `SQLAlchemy` · `Jinja2` · `Alembic` · `pytest`
 
 ## 🌱 Ahora mismo
 
