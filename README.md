@@ -22,6 +22,12 @@ Sistema de gestión para un obrador de pastelería: pedidos, producción, stock 
 
 `Python` · `FastAPI` · `SQLAlchemy` · `Jinja2` · `Alembic` · `pytest`
 
+### [Història Conversacional: la nau PiaXXII](https://github.com/Quim21/projecte-Historia-Conversacional)
+
+Aventura conversacional de texto en Python con orientación a objetos: mapa de zonas, inventario, personajes con comportamiento propio (el Malien y el compañero se mueven solos), un asistente que miente la mitad de las veces y errores propios con jerarquía de excepciones. Sin dependencias externas. Hecho en pareja con [Quim21](https://github.com/Quim21); yo me encargué del mapa, el intérprete de órdenes y la jerarquía de objetos.
+
+`Python` · `POO` · `Excepciones propias` · `Diagrama de clases`
+
 ## 🌱 Ahora mismo
 
 - Cursando DAW y trabajando como IT Helpdesk Nivel 2
